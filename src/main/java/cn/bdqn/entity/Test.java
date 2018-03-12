@@ -9,6 +9,8 @@ public class Test {
     private String password;
     private String nickname;
 
+    private  String update;
+    private String delete;
     @Override
     public String toString() {
         return "Test{" +
